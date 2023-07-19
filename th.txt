@@ -1,0 +1,24 @@
+react --> frontend --> db connectivity :-- dynamic data --->no
+
+java / node js -->
+
+react java object no
+react node js object no
+
+java /node --> rest api create --> 
+URL call -->
+api end points
+JSON -->
+
+api request methods -->
+get  --> data fetch
+/ post --> data create
+/ put--> data update
+ / delete --> data delete
+
+ http status
+
+ 201 --> created
+ 200 --> ok
+ 404 --> not found
+ 500 --> internal server error
